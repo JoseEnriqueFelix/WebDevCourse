@@ -1,0 +1,22 @@
+https://fontawesome.com/
+https://www.codeply.com/
+https://getbootstrap.com/
+https://bootsnipp.com/
+color hunt
+emoji pedia
+mdn documentation (html, css, javascript)
+w3schools
+mobile-friendly test
+code golf stack exchange
+adobe color
+grammarly
+daily ui
+https://github.com/rwaldron/idiomatic.js/
+for naming variables the only symbols (of course exceptuating letters and numbers) that are accepted are the $ and _
+something.slice() == substring()
+You can't start the name of a variable or a function with a number
+Stanford karel (Karel robot)
+=== (equal to) !==(No equal to)
+keydown and not keypress
+minifier.org
+https://www.learnenough.com/command-line-tutorial
